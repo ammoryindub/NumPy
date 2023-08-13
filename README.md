@@ -9,7 +9,7 @@ NumPy Practices
   
 * Arrays indexing and slicing
 
-* Arrays Opersations
+* Arrays Operations
 
 * 
 
