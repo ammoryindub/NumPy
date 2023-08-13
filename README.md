@@ -8,24 +8,8 @@ NumPy Practices
 * Creating arrays
 * 
 
-Creating a known range array and shaping it at same time
-np.arange(25).reshape (5,5)
-array([[ 0,  1,  2,  3,  4],
-       [ 5,  6,  7,  8,  9],
-       [10, 11, 12, 13, 14],
-       [15, 16, 17, 18, 19],
-       [20, 21, 22, 23, 24]])
-np.arange(9).reshape(3,3)
-array([[0, 1, 2],
-       [3, 4, 5],
-       [6, 7, 8]])
-Creating an array with random numbers with the value between 0 and 1, and putting it in a 2-dimensional array
-np.random.rand(25).reshape(5,5)
-array([[0.34379021, 0.95232539, 0.42277554, 0.01210707, 0.70315967],
-       [0.49778401, 0.89486796, 0.63543811, 0.63171566, 0.67374153],
-       [0.58600217, 0.14943144, 0.36711024, 0.22094175, 0.4212941 ],
-       [0.18631771, 0.36079691, 0.0691003 , 0.15852072, 0.96290796],
-       [0.03999046, 0.6053238 , 0.81215621, 0.3754287 , 0.03853721]])
+
+
 Creating an array with identified values from 0 to 10, putting them into a 2-dimensional matrix, and shaping it
 np.linspace (0,10,100).reshape(10,10)
 array([[ 0.        ,  0.1010101 ,  0.2020202 ,  0.3030303 ,  0.4040404 ,
