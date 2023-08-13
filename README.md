@@ -4,8 +4,9 @@
 NumPy Practices
 
 * Importing Numpy library
-import numpy as np
-Creating arrays with only ones, zeros
+
+* Creating arrays
+* 
 np.ones(10) 
 array([1., 1., 1., 1., 1., 1., 1., 1., 1., 1.])
 np.zeros(20)
