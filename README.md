@@ -3,10 +3,7 @@
 
 NumPy Practices
 
-Numpy Skills
-Have a few challenges that we will approach to solve using Numpy codes and methods.
-
-We will start with importing Numpy library
+* Importing Numpy library
 import numpy as np
 Creating arrays with only ones, zeros
 np.ones(10) 
