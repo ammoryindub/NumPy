@@ -9,16 +9,10 @@ NumPy Practices
   
 * Arrays indexing and slicing
 
+* Arrays Opersations
+
 * 
-arr = np.arange(1,26).reshape(5,5)
-arr
-array([[ 1,  2,  3,  4,  5],
-       [ 6,  7,  8,  9, 10],
-       [11, 12, 13, 14, 15],
-       [16, 17, 18, 19, 20],
-       [21, 22, 23, 24, 25]])
-# selecting number 1 
-arr [0,0]
+
 
 # selecting number 12 
 arr [2,1]
