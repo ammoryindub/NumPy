@@ -1,7 +1,7 @@
 # NumPy
 
 
-NumPy Practices
+#### NumPy Practices
 
 * Importing Numpy library
 
