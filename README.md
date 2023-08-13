@@ -6,14 +6,10 @@ NumPy Practices
 * Importing Numpy library
 
 * Creating arrays
+  
+* Arrays indexing and slicing
+
 * 
-
-
-
-
-
-
-Arrays indexing and slicing
 arr = np.arange(1,26).reshape(5,5)
 arr
 array([[ 1,  2,  3,  4,  5],
